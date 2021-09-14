@@ -1,0 +1,17 @@
+body{
+    padding:30px;
+}
+img#glitch{
+    max-width: 50%;
+    display: block;
+    height: auto;
+    float: right;
+}
+textarea{
+    max-width: 50%;
+    float: left;
+}
+button{
+    display:block;
+    float: left;
+}
