@@ -6,7 +6,7 @@ My personal playground for making web-based glitch art tools. Built in React.
 
 ## Text Glitcher
 
-![UI Screenshot](https://raw.githubusercontent.com/zoboe/wolfe-glitcher/master/docs/textglitch-v1.jpg)
+![UI Screenshot](https://raw.githubusercontent.com/zoboe/wolfe-glitcher/main/docs/textglitch-v1.jpg)
 
 This tool is designed for what some call "Notepad Glitching". Upload an image and it will appear beside its raw HEX data in a text field. Watch the image as you make changes to the text to see your glitches in real time!
 
